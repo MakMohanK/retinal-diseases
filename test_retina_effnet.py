@@ -7,7 +7,7 @@ import numpy as np
 import pandas as pd
 
 # Paths
-test_img_path = r'C:\Users\Server\Documents\retinal-diseases\database\Training_Set\Training_Set\Training\36.png'
+test_img_path = r'C:\Users\Server\Documents\retinal-diseases\database\Evaluation_Set\Evaluation_Set\Validation\13.png'
 model_path = r'C:\Users\Server\Documents\retinal-diseases\efficientnet_retina.pth'
 test_label_csv = r'C:\Users\Server\Documents\retinal-diseases\database\Training_Set\Training_Set\RFMiD_Training_Labels.csv'
 
